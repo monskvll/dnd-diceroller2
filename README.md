@@ -1,3 +1,20 @@
+# Dungeons & Dragons Dice Roller
+
+React web app for D&D dice rolls:
+
+Includes:
+- Classic dice set buttons for rolls;
+- Maximum and minimum possible roll presents a different visual;
+- Thematic random trivia generator from an array;
+- Usage of Emotion library to simplify CSS/aesthetic choices;
+- Konami Code easter egg on keypress which brings up the "thank you" window.
+
+Final project done as part of the 2020 curriculum for Flag's specialized course in Front-End Web Development.
+
+- - - - - 
+
+For the placeholder/default text on how to use/create a React app:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
